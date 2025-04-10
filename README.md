@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Harshita</h1>
 
-- 🌱 I’m currently learning **RAG, Agents using LangGraph**
+- 🌱 I’m currently working with **Multimodal LLMs**
 
 - 👨‍💻 All of my projects are available at [https://nagaharshita.github.io/projects/](https://nagaharshita.github.io/projects/)
 
-- 💬 Ask me about **Programming, LLMs, RAGs**
+- 💬 Ask me about **Programming, Multimodal LLMs, RAGs**
 
 - ⚡ Always up for a conversation related to **Distributed systems, Generative AI**
 
